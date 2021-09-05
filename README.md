@@ -9,4 +9,5 @@ The code is poorly optimized (yes i managed to make a snake game poorly optimize
 ### How to Play
 - `WASD` move
 - `R` Restart
+
 Gray bar at bottom is scoreboard representing binary value of the score.
