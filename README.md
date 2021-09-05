@@ -1,5 +1,6 @@
 # Snake
 ![Screen Shot](screen_shot.png)
+
 Classic snake game.
 
 ### Note
